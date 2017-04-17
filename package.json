@@ -1,0 +1,22 @@
+{
+  "name": "restapi-mongo",
+  "version": "1.0.0",
+  "description": "Demo Of RestApi with express & MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node Server.js"
+  },
+  "keywords": [
+    "node",
+    "restapi",
+    "mongo"
+  ],
+  "author": "Brajesh kanungo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.5"
+  }
+}
